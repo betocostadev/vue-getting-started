@@ -3,10 +3,11 @@
     {
       "id": 10,
       "firstName": "Ella",
-      "lastName": "Papa",
+      "lastName": "Papa Jhones",
       "capeCounter": 1,
       "originDate": "1996-06-06",
-      "description": "fashionista"
+      "description": "fashionista",
+      "fullName": "Ella Papa"
     },
     {
       "id": 20,
@@ -15,14 +16,6 @@
       "capeCounter": 3,
       "originDate": "08/01/1998",
       "description": "the cat whisperer"
-    },
-    {
-      "id": 30,
-      "firstName": "Haley",
-      "lastName": "Papa",
-      "capeCounter": 2,
-      "originDate": "09/01/1999",
-      "description": "pen wielder"
     },
     {
       "id": 40,
